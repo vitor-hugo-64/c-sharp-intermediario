@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "Referencia/1.0.0": {
-        "dependencies": {
-          "Biblioteca": "1.0.0"
-        },
         "runtime": {
           "Referencia.dll": {}
-        }
-      },
-      "Biblioteca/1.0.0": {
-        "runtime": {
-          "Biblioteca.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Referencia/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Biblioteca/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
