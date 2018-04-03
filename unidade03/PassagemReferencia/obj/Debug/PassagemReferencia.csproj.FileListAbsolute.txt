@@ -1,0 +1,6 @@
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemReferencia\bin\Debug\PassagemReferencia.exe.config
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemReferencia\bin\Debug\PassagemReferencia.exe
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemReferencia\bin\Debug\PassagemReferencia.pdb
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemReferencia\obj\Debug\PassagemReferencia.csproj.CoreCompileInputs.cache
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemReferencia\obj\Debug\PassagemReferencia.exe
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemReferencia\obj\Debug\PassagemReferencia.pdb

@@ -1,0 +1,7 @@
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemOut\bin\Debug\PassagemOut.exe.config
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemOut\bin\Debug\PassagemOut.exe
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemOut\bin\Debug\PassagemOut.pdb
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemOut\obj\Debug\PassagemOut.csprojResolveAssemblyReference.cache
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemOut\obj\Debug\PassagemOut.csproj.CoreCompileInputs.cache
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemOut\obj\Debug\PassagemOut.exe
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemOut\obj\Debug\PassagemOut.pdb

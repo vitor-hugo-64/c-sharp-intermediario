@@ -1,0 +1,6 @@
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemValor\bin\Debug\PassagemValor.exe.config
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemValor\bin\Debug\PassagemValor.exe
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemValor\bin\Debug\PassagemValor.pdb
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemValor\obj\Debug\PassagemValor.csproj.CoreCompileInputs.cache
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemValor\obj\Debug\PassagemValor.exe
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\PassagemValor\obj\Debug\PassagemValor.pdb

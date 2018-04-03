@@ -1,0 +1,7 @@
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\ValorReferencia\bin\Debug\ValorReferencia.exe.config
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\ValorReferencia\bin\Debug\ValorReferencia.exe
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\ValorReferencia\bin\Debug\ValorReferencia.pdb
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\ValorReferencia\obj\Debug\ValorReferencia.csprojResolveAssemblyReference.cache
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\ValorReferencia\obj\Debug\ValorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\ValorReferencia\obj\Debug\ValorReferencia.exe
+C:\Users\vitor hugo.LIBERATO_ADM\source\repos\unidade03\ValorReferencia\obj\Debug\ValorReferencia.pdb
