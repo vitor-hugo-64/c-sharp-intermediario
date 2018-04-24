@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutorRapido", "ConstrutorRapido\ConstrutorRapido.csproj", "{C06ED62D-919B-496B-AD3A-AB8703414D57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplementPropretyAtribuitValor", "AutoImplementPropretyAtribuitValor\AutoImplementPropretyAtribuitValor.csproj", "{D2E73F0C-C6CC-4A23-8586-3BDE95090825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStatic", "UsingStatic\UsingStatic.csproj", "{5A72D0FC-1D46-4ABD-9039-D78D30C3BE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatarTexto", "FormatarTexto\FormatarTexto.csproj", "{71EA407D-66A7-4C02-B6F8-C6E3BFEC73F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06ED62D-919B-496B-AD3A-AB8703414D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06ED62D-919B-496B-AD3A-AB8703414D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06ED62D-919B-496B-AD3A-AB8703414D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06ED62D-919B-496B-AD3A-AB8703414D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E73F0C-C6CC-4A23-8586-3BDE95090825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E73F0C-C6CC-4A23-8586-3BDE95090825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E73F0C-C6CC-4A23-8586-3BDE95090825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E73F0C-C6CC-4A23-8586-3BDE95090825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A72D0FC-1D46-4ABD-9039-D78D30C3BE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A72D0FC-1D46-4ABD-9039-D78D30C3BE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A72D0FC-1D46-4ABD-9039-D78D30C3BE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A72D0FC-1D46-4ABD-9039-D78D30C3BE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EA407D-66A7-4C02-B6F8-C6E3BFEC73F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EA407D-66A7-4C02-B6F8-C6E3BFEC73F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EA407D-66A7-4C02-B6F8-C6E3BFEC73F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EA407D-66A7-4C02-B6F8-C6E3BFEC73F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FAE2CE9-6094-4C4D-8E5E-A8D6B0C4947F}
+	EndGlobalSection
+EndGlobal
